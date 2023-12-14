@@ -17,6 +17,9 @@ Dependencies:
 Finally, layers.py from https://github.com/inyeoplee77/SAGPool/blob/master/layers.py was used for the SAG Pooling layer.
 GCN_EpiPred.ipynb also works on MacOS, although dependencies' versions might differ from the list above. Some modules such as mitdeeplearning, IPython and tqdm are for display of loss curve plots and iteration progress bars, and can be left out (comment out their lines). 
 
+#Citation
+
+
 If the code or poster of GCN_EpiPred were useful in your work, please cite the abstract or link directly to this repository. Thanks!
 
 If the CoV-AbDab_310.csv data was useful, please cite _PESI: Paratope-Epitope Set Interaction for SARS-CoV-2 Neutralization Prediction_ by
