@@ -18,7 +18,7 @@ Dependencies:
     
 
 Finally, layers.py from https://github.com/inyeoplee77/SAGPool/blob/master/layers.py was used for the SAG Pooling layer.
-It also works on MacOS, although dependencies versions might differ.
+GCN_EpiPred.ipynb also works on MacOS, although dependencies' versions might differ.
 
 If the code or poster of GCN_EpiPred were useful in your work, please cite the abstract or link directly to this repository. Thanks!
 
