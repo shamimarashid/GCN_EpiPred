@@ -1,8 +1,6 @@
 # GCN_EpiPred
 
-This code was developed using python 3.9, Ubuntu 22.04.3 LTS operating system.  Dependencies and their versions are:
-
-
+This code was developed using python 3.9, on an Ubuntu 22.04.3 LTS operating system. 
 
 Dependencies:
 
@@ -17,7 +15,7 @@ Dependencies:
 9. tqdm 4.64.0
 
 Finally, layers.py from https://github.com/inyeoplee77/SAGPool/blob/master/layers.py was used for the SAG Pooling layer.
-GCN_EpiPred.ipynb also works on MacOS, although dependencies' versions might differ.
+GCN_EpiPred.ipynb also works on MacOS, although dependencies' versions might differ from the list above.
 
 If the code or poster of GCN_EpiPred were useful in your work, please cite the abstract or link directly to this repository. Thanks!
 
