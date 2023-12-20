@@ -1,6 +1,6 @@
 # GCN_EpiPred
 
-This code was developed using python 3.9, on an Ubuntu 22.04.3 LTS operating system. 
+This code was developed using python 3.9.13, on an Ubuntu 22.04.3 LTS operating system. 
 
 Dependencies:
 
