@@ -14,8 +14,8 @@ Dependencies:
 8. IPython 8.4.0      
 9. tqdm 4.64.0
 
-Pls down load [layers.py](https://github.com/inyeoplee77/SAGPool/blob/master/layers.py),(used for the SAG Pooling layer) and keep it in the same directory as the GCN_EpiPred.ipynb.
-The code also works on MacOS, although dependencies' versions might differ from the list above. Some modules such as mitdeeplearning, IPython and tqdm are for display purposes (e.g. loss plots, iteration progress bars etc), and can be commented out as needed.
+Pls download [layers.py](https://github.com/inyeoplee77/SAGPool/blob/master/layers.py)(used for the SAG Pooling layer) and keep it in the same directory as GCN_EpiPred.ipynb notebook.
+The notebook also works on MacOS, although dependencies' versions might differ from the list above. Some modules such as mitdeeplearning, IPython and tqdm are for display purposes (e.g. loss plots, iteration progress bars etc), and can be commented out as needed.
 
 # Citations
 
